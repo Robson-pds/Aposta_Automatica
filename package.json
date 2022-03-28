@@ -1,0 +1,26 @@
+{
+    "name": "aposta",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "chrome-launcher": "^0.15.0",
+        "dotenv": "^16.0.0",
+        "jssoup": "^0.0.15",
+        "logform": "^2.4.0",
+        "mysql2": "^2.3.3",
+        "puppeteer": "*",
+        "puppeteer-extra": "^3.2.3",
+        "puppeteer-extra-plugin-stealth": "^2.9.0",
+        "puppeteer-extra-plugin-user-data-dir": "^2.3.1",
+        "puppeteer-extra-plugin-user-preferences": "^2.3.1",
+        "winston": "^3.6.0"
+    }
+}

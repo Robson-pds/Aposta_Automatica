@@ -1,0 +1,4 @@
+
+function Injetou(){
+    return true;
+}
